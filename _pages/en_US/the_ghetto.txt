@@ -22,3 +22,5 @@ __Go back to [Early Life](early_life) \| Continue to the [Working Camps](camp_au
 
 __Need to add more info!__
 {: .notice--danger}
+
+<br/>

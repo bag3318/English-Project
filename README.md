@@ -46,3 +46,37 @@ This website is executed to a local server instead of executing a plain old `.ht
 6 main languages are used: YAML, Sass, Ruby, Liquid HTML, Javascript, &amp; Kramdown. 
 I used liquid HTML to insert HTML values into HTML pages, I used Kramdown to render Kramdown Markdown into HTML, SCSS (Sass) is used for styling and is compiled into CSS. Ruby is used for the ruby gems packages and Gemfiles. YAML is used as the "layout" and metadata for the web page.
 
+### Samples
+
+#### HTML With Liquid
+```HTML
+<div class="masthead">
+  <div class="masthead__inner-wrap">
+    <div class="masthead__menu">
+      <nav id="site-nav" class="greedy-nav">
+        <ul class="visible-links">
+        	{% comment %}
+        		below is some liquid HTML
+        	{% endcomment %}
+          {% assign split_path = page.path | split: "/" %}
+          {% assign locale = split_path[1] %}
+          {% assign titles = site.data.navigation[locale].main %}
+          {% if locale == 'en_US' %}
+            {% assign locale_var = '/' %}
+          {% else %}
+            {% assign locale_var = locale | prepend:'/' | append:'/' %}
+          {% endif %}
+          <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ domain }}{{ locale_var }}">{{ titles[0].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}">{{ titles[1].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}">{{ titles[2].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}">{{ titles[3].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}">{{ titles[4].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}">{{ titles[5].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}">{{ titles[6].title }}</a></li>
+          <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}">{{ titles[7].title }}</a></li>
+        </ul>
+      </nav>
+    </div>
+  </div>
+</div>
+```

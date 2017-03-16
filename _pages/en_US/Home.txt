@@ -5,7 +5,7 @@ excerpt: "Lean about Eli Wiesel&rsquo;s<br/>struggle through the Holocaust"
 header:
   overlay_color: "#5e616c" #
   overlay_image: images/main_home.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.25
   cta_label: "Learn More&excl;" #
   cta_url: "early_life" #
   caption: "&ldquo;<i>Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented</i>&rdquo; - Elie Wiesel" #

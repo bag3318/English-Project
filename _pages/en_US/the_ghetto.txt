@@ -5,8 +5,8 @@ lang: en
 header:
   overlay_color: "#5e616c" #
   overlay_image: images/the_ghetto.jpg
-  overlay_filter: 0.5
-  cta_url: "working_camps"
+  overlay_filter: 0.25
+  cta_url: "quiz2"
   cta_label: "Continue"
 permalink: /the_ghetto.html
 ---
@@ -17,10 +17,9 @@ Eli Wiesel was forced to go to a Ghetto in 1939. He initially did not have that 
 
 <br/>
 
-__Go back to [Early Life](early_life) \| Continue to the [Working Camps](working_camps)__
+__Go back to [Early Life](early_life) \| Take a [Quiz](quiz2) \| Continue to the [Camp Birkenau](camp_birkenau)__
 {: .notice--primary}
 
 __Need to add more info!__
 {: .notice--danger}
 
-<br/>

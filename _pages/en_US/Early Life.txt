@@ -6,7 +6,7 @@ excerpt: "<br/><br/>"
 header:
   overlay_color: "#5e616c" #
   overlay_image: images/header_test1.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.25
   cta_label: "Continue"
   cta_url: "quiz1"
 permalink: /early_life.html

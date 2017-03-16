@@ -1,11 +1,11 @@
 ---
-title: "Quiz on Ealie's Early Life" #
+title: "Quiz on Elie's Early Life" #
 lang: en
 permalink: /quiz1.html
 ---
 <div>
 	<div style="overflow: hidden;height: 370px;">
-		<iframe src="https://quizlet.com/195184820/test/embed" height="410" width="100%" style="border:0;"></iframe>
+		<iframe src="https://quizlet.com/196359603/test/embed" height="410" width="100%" style="border:0"></iframe>	
 	</div>
 </div>{:style="border: 2px dotted dodgerblue;border-radius: 8px;"}
 

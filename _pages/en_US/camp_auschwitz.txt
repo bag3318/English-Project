@@ -4,8 +4,8 @@ title: "Camp Auschwitz" #
 excerpt: "<br/>"
 header:
   overlay_color: "#5e616c" #
-  overlay_image: images/auschwits-birkenau.GIF
-  overlay_filter: 0.5
+  overlay_image: images/auschwtiz.jpg
+  overlay_filter: 0.2
   cta_label: "Continue" #
   cta_url: "deaths" #
 lang: en

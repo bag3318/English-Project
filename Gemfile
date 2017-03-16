@@ -5,7 +5,7 @@ gem 'bundle'  , '>= 0.0.1' , :group => :development , :require => true
 gem 'bundler' , '>= 1.12'  , :group => :development , :require => true 
 gem 'jekyll-redirect-from' , 						  :require => true 
 gem 'kramdown', '>= 1.3'   , :group => :development , :require => true 
-# gem 'liquify' , ''
+gem 'liquid'  , '>= 3.0.6' , :group => :development , :require => true 
 gem 'nokogiri', '>= 1.6.6' , :group => :development , :require => true 
 gem 'rails'   , '>= 4.2.5' , :group => :development , :require => true 
 gem 'rake'    , '>= 10.0'  , :group => :development , :require => true 

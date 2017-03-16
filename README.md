@@ -49,7 +49,7 @@ I used liquid HTML to insert HTML values into HTML pages, I used Kramdown to ren
 ### Samples
 
 #### HTML With Liquid
-````Liquid
+````Liquid, HTML
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">

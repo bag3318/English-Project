@@ -49,15 +49,15 @@ I used liquid HTML to insert HTML values into HTML pages, I used Kramdown to ren
 ### Samples
 
 #### HTML With Liquid
-```HTML
+```Liquid
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <ul class="visible-links">
-        	{% comment %}
-        		below is some liquid HTML
-        	{% endcomment %}
+    	  {% comment %}
+    	     below is some liquid HTML
+    	  {% endcomment %}
           {% assign split_path = page.path | split: "/" %}
           {% assign locale = split_path[1] %}
           {% assign titles = site.data.navigation[locale].main %}

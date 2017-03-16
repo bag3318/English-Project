@@ -1,0 +1,24 @@
+---
+layout: splash
+title: "The Ghetto" #
+lang: en
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: images/the_ghetto.jpg
+  overlay_filter: 0.5
+  cta_url: "working_camps"
+  cta_label: "Continue"
+permalink: /the_ghetto.html
+---
+
+![ghetto](images/jewish_ghetto.jpg){:style="border: 1px solid grey; border-radius: 8px;float: left;clear: left;margin-right:10px;"}
+Eli Wiesel was forced to go to a Ghetto in 1939. He initially did not have that bad of thoughts about it, due him not seeing hostilities. Eli and has family, along with all the other Jews also thought that the Ghetto was only temporary, and that they could return to their homes after some time. Jews were also forced to wear a _Yellow Star of David_ arm patch in order for Nazis to identify them as Jewish people in public. By the time the Eli got out of the ghetto, he was not going home, but rather somewhere else; somewhere where he and his memory will be carved for eternity.
+{:style="font-size:24px;"}
+
+<br/>
+
+__Go back to [Early Life](early_life) \| Continue to the [Working Camps](camp_auschwitz)__
+{: .notice--primary}
+
+__Need to add more info!__
+{: .notice--danger}

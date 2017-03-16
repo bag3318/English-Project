@@ -1,0 +1,33 @@
+---
+layout: splash
+title: "Eli Wiesel" #
+excerpt: "Lean about Eli Wiesel&rsquo;s<br/>struggle through the Holocaust"
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: images/main_home.jpg
+  overlay_filter: 0.5
+  cta_label: "Learn More&excl;" #
+  cta_url: "not_found" #
+  caption: "&ldquo;<i>Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented</i>&rdquo; - Elie Wiesel" #
+lang: en
+permalink: /index.html
+---
+
+[//]: # (__Please note that this site is nowhere near being completed; and while it may look like so, I still have plethoric amounts of API-learning and code-constructing self-lessons to do. I do not fully know the languages that I need to know (such as `ruby` and `sass`). The writing will therefor be very primitve and will later be edited (to be more profession). Pages may be incomplete, or not found; however, these sections will later be filled in. Please scroll down to see more. Thank you.__)
+[//]: # ({: .notice--danger})
+
+Eli Wiesel is a major figure of the Holocaust. He has written the famouse book "**Night**" and won the *Nobel Prize for Literature* in 1986. The stories that were writtten by Eli himself are tremendous and touching to many. 
+{: .notice--info}
+
+## _Quotes_
+
+> &ldquo;There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.&rdquo;
+{: .notice--warning}
+
+> &ldquo;**The opposite of love is not hate, it's indifference.**&rdquo;
+{: .notice--warning}
+
+> &ldquo;We must always take sides.&rdquo;
+{: .notice--warning}
+
+![Jude](images/jude.gif){:style="border: 2px dodgerblue solid;border-radius: 8px;height: 88px;margin-left: 50%; margin-right: 50%;"}

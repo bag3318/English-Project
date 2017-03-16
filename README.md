@@ -9,3 +9,4 @@
 5. footer.html (liquid html)
 6. Gemfile (ruby gems)
 7. Home.txt (kramdown)
+8. main.scss (sass)

@@ -12,6 +12,5 @@ sitemap: false
 #### Explanation
 
 > This site is still being developed; thus many pages are not yet formed nor completed.
-{: .text-center}
 {: .notice--danger}
 

@@ -49,12 +49,14 @@ I used liquid HTML to insert HTML values into HTML pages, I used Kramdown to ren
 ### Samples
 
 #### HTML With Liquid
-````Liquid, HTML
+````HTML
 <div class="masthead">
   <div class="masthead__inner-wrap">
     <div class="masthead__menu">
       <nav id="site-nav" class="greedy-nav">
         <ul class="visible-links">
+````
+````Liquid    
     	  {% comment %}
     	     below is some liquid HTML
     	  {% endcomment %}
@@ -66,6 +68,8 @@ I used liquid HTML to insert HTML values into HTML pages, I used Kramdown to ren
           {% else %}
             {% assign locale_var = locale | prepend:'/' | append:'/' %}
           {% endif %}
+````  
+````HTML
           <li class="masthead__menu-item masthead__menu-item--lg"><a href="{{ domain }}{{ locale_var }}">{{ titles[0].title }}</a></li>
           <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}">{{ titles[1].title }}</a></li>
           <li class="masthead__menu-item"><a href="{{ domain }}{{ locale_var }}">{{ titles[2].title }}</a></li>

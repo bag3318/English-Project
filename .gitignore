@@ -15,5 +15,6 @@ example/_site
 Gemfile.lock
 node_modules
 npm-debug.log*
-vendor
+assets/js/vendor/
+_sass/vendor/
 torrents

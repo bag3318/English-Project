@@ -59,11 +59,10 @@ atom_feed:
 include:
  - .htaccess
  - _pages
- - vendor
 exclude: [
   "*.sublime-project",
   "*.sublime-workspace",
-  # vendor,
+  vendor,
   _css
   .asset-cache,
   .bundle,

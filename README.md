@@ -12,39 +12,29 @@
 8. `assets/css/main.scss (sass)`
 9. `_layouts/splash.html (liquid html)`
 
-
-
 ## How to execute on Mac
 
-> __Note: when I say `run/type in/paste` that means you copy and paste the command into the terminal and hit <kbd>return</kbd>__ 
-
 1. go to [this page](https://git-scm.com/downloads) and download and install the git command line tools package
-2. open up terminal and run this command: <br/>
-` ruby -e "(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
-     * To open up terminal, press `Command+Space` and type in terminal, then press `enter`.
-3. then paste in this line 
-` brew install ruby`
-4. then type in this line `cd desktop`
-5. then paste in this: ` git clone https://github.com/bag3318/English-Project.git` and hit <kbd>return</kbd>
-6. then go [here](https://rubygems.org/pages/download) and download the zip to your downloads folder, and extract the zip file, and move the extracted folder to your desktop
-7. go back into terminal and type in the following: ` cd rubygems-2.6.10`
-8. then, to install ruby gems, type in this: ` sudo ruby setup.rb`
-9. Now we need to go to the directory of our project, so type in this: ` cd ../english-project`
-10. then run this command: ` sudo gem install bundler -n /usr/local/bin`
-11. then run this command ` bundle install`
-12. type in this commnad: ` gem install minimal-mistakes-jekyll -n /urs/local/bin`
-13. type in this command: ` gem build minimal-mistakes-jekyll.gemspec`
-14. type in this command: ` gem install minimal-mistakes-jekyll-4.0.9.gem`
-15. then type in this command: ` bundle update`
-16. finally, type in this command: ` bundle exec jekyll serve`
-17. to stop, go back to terminal and press <kbd>control</kbd> and <kbd>C</kbd> at the same time
-18. To do this again, open terminal and type in this: ` cd desktop/english-project` then run this command: ` jekyll serve`
-
-
-## How it works
-This website is executed to a local server instead of executing a plain old `.html` file.
-6 main languages are used: YAML, Sass, Ruby, Liquid HTML, Javascript, &amp; Kramdown. 
-I used liquid HTML to insert HTML values into HTML pages, I used Kramdown to render Kramdown Markdown into HTML, SCSS (Sass) is used for styling and is compiled into CSS. Ruby is used for the ruby gems packages and Gemfiles. YAML is used as the "layout" and metadata for the web page.
+2. open up terminal and paste this command: <br/>
+` ruby -e "(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"` then hit <kbd>return</kbd>
+     * To open up terminal, press `Command+Space` and type in terminal, then press <kbd>return</kbd>.
+3. then paste in this line `brew install ruby` and hit <kbd>return</kbd>
+4. then paste in this line `cd desktop` and hit <kbd>return</kbd>
+5. then paste in this line `git clone https://github.com/bag3318/English-Project.git` and hit <kbd>return</kbd>
+6. then go [here](https://rubygems.org/pages/download) and download the zip to your downloads folder, extract the zip file (basically double click it), and move the extracted folder to your desktop
+7. go back into terminal and paste in the following `cd rubygems-2.6.10`, then hit <kbd>return</kbd>
+8. then, to install ruby gems, paste in this: `sudo ruby setup.rb` and hit <kbd>return</kbd>
+9. Now we need to go to the directory of our project, so paste in this `cd ../english-project` and hit <kbd>return</kbd>
+10. then run this command `sudo gem install bundler -n /usr/local/bin` and hit <kbd>return</kbd>
+11. then paste in this command `bundle install` and hit <kbd>enter</kbd>
+12. paste in this commnad `gem install minimal-mistakes-jekyll -n /urs/local/bin` and hit <kbd>enter</kbd>
+13. then paste in this command `gem build minimal-mistakes-jekyll.gemspec` and hit <kbd>return</kbd>
+14. then paste in this command: ` gem install minimal-mistakes-jekyll-4.0.9.gem` and hit <kbd>return</kbd>
+15. then paste in this command ` bundle update` and press <kbd>return</kbd>
+16. finally, paste in this command `bundle exec jekyll serve` and hit <kbd>return</kbd>
+17. then go to your web browser and type in this: `localhost:4000` and hit <kbd>return</kbd>
+18. to stop, go back to terminal and press <kbd>control</kbd> (**NOT COMMAND!**) and <kbd>C</kbd> at the same time
+19. To do this again, open terminal and paste in this: `cd desktop/english-project` and hit <kbd>return</kbd> then paste in this command `jekyll serve` and hit <kbd>return</kbd> (to stop, follow step 17 again)
 
 ### Samples
 

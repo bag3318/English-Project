@@ -27,5 +27,5 @@ Eli Wiesel is a major figure of the Holocaust. He has written the famouse book "
 > &ldquo;We must always take sides.&rdquo;
 {: .notice--warning}
 
-![Jude](images/jude.gif){:style="border: 2px dodgerblue solid;border-radius: 8px;height: 88px;margin-left: 50%; margin-right: 50%;"}
+[//]: # (![Jude](images/jude.gif){:style="border: 2px dodgerblue solid;border-radius: 8px;height: 88px;margin-left: 50%; margin-right: 50%;"})
 

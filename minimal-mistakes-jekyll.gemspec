@@ -25,6 +25,7 @@ Gem::Specification.new do |spec|
   spec.add_development_dependency "rspec"   , ">= 3.0"
   spec.add_development_dependency "rvm"     , ">= 1.11.3"
   spec.add_development_dependency "sass"    , ">= 3.4.23"
+  spec.add_development_dependency "safe_yaml"
   spec.add_runtime_dependency "jekyll-paginate", ">= 1.1"
   spec.add_runtime_dependency "jekyll-sitemap" , ">= 0.12"
   spec.add_runtime_dependency "jekyll-sass-converter"

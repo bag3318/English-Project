@@ -13,6 +13,7 @@ gem 'rake'    , '>= 10.0'  , :group => :development , :require => true
 gem 'rspec'   , '>= 3.0'   , :group => :development , :require => true 
 gem 'rvm'     , '>= 1.11.3', :group => :development , :require => true 
 gem 'sass'    , '>= 3.4.23', :group => :development , :require => true
+gem 'safe_yaml'
 gemspec :path => '.', :name => 'minimal-mistakes-jekyll', :group => :development, :require => true 
 ruby    '>= 2.4.0' 
 require 'jekyll'   
@@ -30,4 +31,5 @@ group :development, :test do
   gem 'rspec'   , '>= 3.0'   
   gem 'rvm'     , '>= 1.11.3'
   gem 'sass'    , '>= 3.4.23'
+  gem 'safe_yaml'
 end 

@@ -6,6 +6,7 @@ ruby    '2.4.0'
 require 'rubygems'
 
 platforms :ruby do
+  gemspec :path => '.', :name => 'minimal-mistakes-jekyll', :group => :development, :require => true 
   gem "rake", ">= 12.0.0"
   gem "i18n", ">= 0.8.1"
   gem "minitest", ">= 5.10.1"
@@ -77,5 +78,4 @@ platforms :ruby do
   gem "railties", ">= 4.2.8"
   gem "sprockets-rails", ">= 3.2.0"
   gem "rails", ">= 4.2.8"
-  gemspec :path => '.', :name => 'minimal-mistakes-jekyll', :group => :development, :require => true 
 end 

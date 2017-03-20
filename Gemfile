@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 source 'http://gems.github.com'    
-source 'http://gems.rubyforge.org'
+# source 'http://gems.rubyforge.org'
 ruby '2.4.0' 
 require 'rubygems'
 platforms :ruby do

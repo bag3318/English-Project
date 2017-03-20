@@ -1,7 +1,6 @@
 source 'http://gems.github.com'    
 source 'http://gems.rubyforge.org' 
 source 'https://rubygems.org'      
-gem 'bundle'  , '>= 0.0.1' , :group => :development , :require => true 
 gem 'bundler' , '>= 1.12'  , :group => :development , :require => true 
 gem 'jekyll-redirect-from' , 						              :require => true 
 gem 'jekyll-sass-converter', :group => :runtime     , :require => true 

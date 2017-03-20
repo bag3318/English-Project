@@ -15,7 +15,6 @@ Gem::Specification.new do |spec|
   end
   
   spec.add_dependency "jekyll", ">= 3.3"
-  spec.add_development_dependency "bundle"  , ">= 0.0.1"
   spec.add_development_dependency "bundler" , ">= 1.12"
   spec.add_development_dependency "kramdown", ">= 1.3"
   spec.add_development_dependency "liquid"  , ">= 3.0.6"

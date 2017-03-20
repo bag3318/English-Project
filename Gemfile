@@ -1,11 +1,23 @@
-source 'https://rubygems.org' 
+source 'https://rubygems.org'
 source 'http://gems.github.com'    
-# source 'http://gems.rubyforge.org'   
+source 'http://gems.rubyforge.org'   
 ruby '2.4.0' 
 require 'rubygems'
 platforms :ruby do
   gemspec :path => '.', :name => 'minimal-mistakes-jekyll', :group => :development, :require => true 
-  group :development do 
+  group :test do
+    gem "jekyll", ">= 3.4.2", :group => :test, :require => true
+  end
+  group :runtime do
+    gem "jekyll-paginate", ">= 1.1.0", :group => :runtime, :require => true
+    gem "jekyll-sass-converter", ">= 1.5.0", :group => :runtime, :require => true
+    gem "jekyll-feed", ">= 0.9.1", :group => :runtime, :require => true
+    gem "jekyll-redirect-from", ">= 0.12.1", :group => :runtime, :require => true
+    gem "jekyll-sitemap", ">= 1.0.0", :group => :runtime, :require => true
+    gem "jekyll-gist", ">= 1.4.0", :group => :runtime, :require => true
+    gem "jekyll-watch", ">= 1.5.0", :group => :runtime, :require => true
+  end
+  group :development do
     gem "rake", ">= 12.0.0", :group => :development, :require => true
     gem "i18n", ">= 0.8.1", :group => :development, :require => true
     gem "minitest", ">= 5.10.1", :group => :development, :require => true
@@ -70,16 +82,4 @@ platforms :ruby do
     gem "sprockets-rails", ">= 3.2.0", :group => :development, :require => true
     gem "rails", ">= 4.2.8", :group => :development, :require => true
   end 
-  group :runtime do
-    gem "jekyll-paginate", ">= 1.1.0", :group => :runtime, :require => true
-    gem "jekyll-sass-converter", ">= 1.5.0", :group => :runtime, :require => true
-    gem "jekyll-feed", ">= 0.9.1", :group => :runtime, :require => true
-    gem "jekyll-redirect-from", ">= 0.12.1", :group => :runtime, :require => true
-    gem "jekyll-sitemap", ">= 1.0.0", :group => :runtime, :require => true
-    gem "jekyll-gist", ">= 1.4.0", :group => :runtime, :require => true
-    gem "jekyll-watch", ">= 1.5.0", :group => :runtime, :require => true
-  end
-  group :test do
-    gem "jekyll", ">= 3.4.2", :group => :test, :require => true
-  end
 end 

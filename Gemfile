@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 source 'http://gems.github.com'    
-source 'http://gems.rubyforge.org'   
+source 'http://gems.rubyforge.org'
 ruby '2.4.0' 
 require 'rubygems'
 platforms :ruby do
@@ -48,7 +48,7 @@ platforms :ruby do
     gem "rspec-support", ">= 3.5.0", :group => :development, :require => true
     gem "rvm", ">= 1.11.3.9", :group => :development, :require => true
     gem "tzinfo", ">= 1.2.2", :group => :development, :require => true
-    gem "nokogiri", ">= 1.7.0.1", :group => :development, :require => true
+    gem "nokogiri", ">= 1.7", :group => :development, :require => true
     gem "rack-test", ">= 0.6.3", :group => :development, :require => true
     gem "mime-types", ">= 3.1", :group => :development, :require => true
     gem "addressable", ">= 2.5.0", :group => :development, :require => true

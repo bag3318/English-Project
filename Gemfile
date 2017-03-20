@@ -18,18 +18,4 @@ gemspec :path => '.', :name => 'minimal-mistakes-jekyll', :group => :development
 ruby    '>= 2.1.0' 
 # require 'jekyll'
 require 'rubygems'
-group :development, :test do 
-  gem 'bundle'  , '>= 0.0.1' 
-  gem 'bundler' , '>= 1.12'  
-  gem 'jekyll-redirect-from' 
-  gem 'jekyll-sass-converter'
-  gem 'kramdown', '>= 1.3'   
-  gem 'liquid'  , '>= 3.0.6' 
-  gem 'nokogiri', '>= 1.6.6' 
-  gem 'rails'   , '>= 4.2.5' 
-  gem 'rake'    , '>= 10.0'  
-  gem 'rspec'   , '>= 3.0'   
-  gem 'rvm'     , '>= 1.11.3'
-  gem 'sass'    , '>= 3.4.23'
-  gem 'safe_yaml'
-end 
+

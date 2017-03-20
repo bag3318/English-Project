@@ -1,7 +1,7 @@
 source 'https://rubygems.org'
 source 'http://gems.github.com'    
-# source 'http://gems.rubyforge.org'
-ruby '2.4.0'
+# source 'http://gems.rubyforge.org' 
+ruby '2.4.0' # specify ruby version
 require 'rubygems'
 platforms :ruby do
   gemspec :path => '.', :name => 'minimal-mistakes-jekyll', :group => :development, :require => true 

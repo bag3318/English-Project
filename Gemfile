@@ -15,8 +15,8 @@ gem 'rvm'     , '>= 1.11.3', :group => :development , :require => true
 gem 'sass'    , '>= 3.4.23', :group => :development , :require => true
 gem 'safe_yaml'
 gemspec :path => '.', :name => 'minimal-mistakes-jekyll', :group => :development, :require => true 
-ruby    '>= 2.4.0' 
-require 'jekyll'   
+ruby    '>= 2.1.0' 
+# require 'jekyll'
 require 'rubygems'
 group :development, :test do 
   gem 'bundle'  , '>= 0.0.1' 

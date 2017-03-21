@@ -82,4 +82,4 @@ platforms :ruby do
     gem "sprockets-rails", ">= 3.2.0", :group => :development, :require => true
     gem "rails", ">= 4.2.8", :group => :development, :require => true
   end 
-end 
+end

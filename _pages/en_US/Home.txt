@@ -21,7 +21,7 @@ Eli Wiesel is a major figure of the Holocaust. He has written the famouse book "
 > &ldquo;There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.&rdquo;
 {: .notice--warning}
 
-> &ldquo;**The opposite of love is not hate, it's indifference.**&rdquo;
+> &ldquo;**The opposite of love is not hate, it is indifference.**&rdquo;
 {: .notice--warning}
 
 > &ldquo;We must always take sides.&rdquo;

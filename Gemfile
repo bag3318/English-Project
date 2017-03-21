@@ -1,14 +1,14 @@
-source 'https://rubygems.org'
-source 'http://gems.github.com'    
+source 'https://rubygems.org' # add source 1 for retrieving gems
+source 'http://gems.github.com' # add source 2 for retrieving gems
 # source 'http://gems.rubyforge.org' 
 ruby '2.4.0' # specify ruby version
-require 'rubygems'
-platforms :ruby do
+require 'rubygems' # require rubygems for installation
+platforms :ruby do # for the ruby platform, do...
   gemspec :path => '.', :name => 'minimal-mistakes-jekyll', :group => :development, :require => true 
-  group :test do
+  group :test do # for the test group, install...
     gem "jekyll", ">= 3.4.2", :group => :test, :require => true
   end
-  group :runtime do
+  group :runtime do # for the runtime group, install...
     gem "jekyll-paginate", ">= 1.1.0", :group => :runtime, :require => true
     gem "jekyll-sass-converter", ">= 1.5.0", :group => :runtime, :require => true
     gem "jekyll-feed", ">= 0.9.1", :group => :runtime, :require => true
@@ -17,7 +17,7 @@ platforms :ruby do
     gem "jekyll-gist", ">= 1.4.0", :group => :runtime, :require => true
     gem "jekyll-watch", ">= 1.5.0", :group => :runtime, :require => true
   end
-  group :development do
+  group :development do # and for the development group, install...
     gem "rake", ">= 12.0.0", :group => :development, :require => true
     gem "i18n", ">= 0.8.1", :group => :development, :require => true
     gem "minitest", ">= 5.10.1", :group => :development, :require => true

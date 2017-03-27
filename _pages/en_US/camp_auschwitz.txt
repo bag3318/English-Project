@@ -7,8 +7,17 @@ header:
   overlay_image: images/auschwits-birkenau.gif
   overlay_filter: 0.2
   cta_label: "Continue" #
-  cta_url: "the_struggle" #
+  cta_url: "quiz4" #
 lang: en
 permalink: /camp_auschwitz.html
 ---
 
+![Elie Wiesel in Camp Auschwitz](images/wieselbunk.jpg){:style="border: 1px #4a7247 solid; border-radius: 8px;clear: left;float: left;height:144px;margin-bottom: -15px;margin-right: 10px;"}
+In 1944, Elie Wiesel was deported from the Hungary Ghetto to Camp Auschwitz. He, nor did anyone else he was with, knew what treachery was to come in this horrific camp. The gates of Auschwitz are reminiscent of those in hell. Elie Wiesel would forever remember this great cemetery. When the train stopped and the doors finally opened, there were many men with striped pajamas questioning their presence. "Why are you here?", "You shouldn't have come"; said the men. 
+{:style="width: 1200px;font-size: 24px;"}
+
+__Go back to [Camp Birkenau](camp_Birkenau) \| Take a [Quiz](quiz4) \|  Continue to [The Struggle](the_struggle)__
+{: .notice--primary}
+
+__Need to add more info!__
+{: .notice--danger}

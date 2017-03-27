@@ -4,7 +4,7 @@ source 'http://gems.github.com'
 ruby '2.4.0' 
 require 'rubygems' 
 platforms :ruby do
-  gemspec :path => '.', :name => 'minimal-mistakes-jekyll', :group => :development, :require => true 
+  gemspec :path => '.', :name => 'minimal-mistakes-jekyll', :group => [:development, :test], :require => true 
   group :test do
     gem "jekyll", ">= 3.4.2", :group => :test, :require => true
   end

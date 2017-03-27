@@ -13,16 +13,18 @@ lang: en
 permalink: /index.html
 ---
 
+{::comment}Initiate home page{:/comment}
+
 Eli Wiesel is a major figure of the Holocaust. He has written the famouse book "*Night*" and won the **Nobel Prize for Literature** in 1986. The stories that were writtten by Eli himself are tremendous and touching to many. 
 {: .notice--info}
 
 ## _Quotes_
 
-> &ldquo;There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.&rdquo;
+> &ldquo;*There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.*&rdquo;
 {: .notice--warning}
 
-> &ldquo;**The opposite of love is not hate, it is indifference.**&rdquo;
+> &ldquo;__*The opposite of love is not hate, it is indifference.*__&rdquo;
 {: .notice--warning}
 
-> &ldquo;We must always take sides.&rdquo;
+> &ldquo;*We must always take sides.*&rdquo;
 {: .notice--warning}

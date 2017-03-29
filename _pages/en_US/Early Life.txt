@@ -12,6 +12,8 @@ header:
 permalink: /early_life.html
 ---
 
+{::comment}Initiate Early Life page{:/comment}
+
 # Early Life
 ![location](images/location.jpeg){:style="border: 1px #4a7247 solid; border-radius: 8px;clear: left;float: left;height:144px;margin-bottom: -15px;margin-right: 10px;"}
 ![young](images/young_eli.jpg){:style="border: 1px grey solid; border-radius: 8px;float: right;clear: right;height: 188px;"}

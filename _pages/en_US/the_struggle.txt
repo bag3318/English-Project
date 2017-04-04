@@ -17,12 +17,12 @@ permalink: /the_struggle.html
 
 # Notes:
 
-+ Dad dies
-- trying to get air
-* in tight space
-+ tired
-- sad
-* fatigued 
+> + Dad dies
+> - trying to get air
+> * in tight space
+> + tired
+> - sad
+> * fatigued 
 {: .notice--warning}
 
 __Go back to [Camp Auschwitz](camp_auschwitz) \| Take a [Quiz](quiz5) \| Continue to the [The Light](the_light)__

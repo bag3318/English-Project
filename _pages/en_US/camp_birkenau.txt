@@ -1,0 +1,19 @@
+---
+layout: splash
+title: "Camp Birkenau" #
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: images/birkenau.png
+  overlay_filter: 0.2
+  cta_label: "Continue" #
+  cta_url: "quiz3" #
+lang: en
+permalink: /camp_birkenau.html
+---
+
+![Birkenau Gate](images/auschgate.gif){:style="border: 1px #4a7247 solid; border-radius: 8px;clear: left;float: left;height:144px;margin-bottom: -15px;margin-right: 10px;"}
+Camp Birkenau was vast. There would lie more than a million dead Jewish people. Upon Elie's arrival, the smell of burning flesh filled the air. Before the arrival at Birkenau, there had been a mother who had lost her mind. She kept screaming out "_Fire!! Fire!! I see a fire!!!_". Though, no one knew what she spoke of in literal terms. They thought she had just gone insane. Little did they know that the fire was there, and it did meant something terrible...
+{:style="width: 1200px;font-size: 24px;"}
+
+__Go back to [The Ghetto](the_ghetto) \| Take a [Quiz](quiz3) \|  Continue to [Camp Aushwitz](camp_auschwitz)__
+{: .notice--primary}

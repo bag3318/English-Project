@@ -8,7 +8,7 @@ header:
   overlay_image: images/header_test1.jpg
   overlay_filter: 0.25
   cta_label: "Continue"
-  cta_url: "quiz1"
+  cta_url: "the_ghetto"
 permalink: /early_life.html
 ---
 
@@ -23,6 +23,3 @@ Elie Wiesel was born on 30 September 1928 in Sighet--a town in Poland--now known
 
 __Go back to [Home](index) \| Take a [Quiz](quiz1) \|  Continue to [The Ghetto](the_ghetto)__
 {: .notice--primary}
-
-__Need to add more info!__
-{: .notice--danger}

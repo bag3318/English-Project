@@ -6,7 +6,7 @@ header:
   overlay_image: images/birkenau.png
   overlay_filter: 0.2
   cta_label: "Continue" #
-  cta_url: "quiz3" #
+  cta_url: "camp_auschwitz" #
 lang: en
 permalink: /camp_birkenau.html
 ---

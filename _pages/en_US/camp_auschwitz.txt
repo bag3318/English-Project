@@ -7,7 +7,7 @@ header:
   overlay_image: images/auschwits-birkenau.gif
   overlay_filter: 0.2
   cta_label: "Continue" #
-  cta_url: "quiz4" #
+  cta_url: "the_struggle" #
 lang: en
 permalink: /camp_auschwitz.html
 ---
@@ -18,6 +18,3 @@ In 1944, Elie Wiesel was deported from the Hungary Ghetto to Camp Auschwitz. He,
 
 __Go back to [Camp Birkenau](camp_birkenau) \| Take a [Quiz](quiz4) \|  Continue to [The Struggle](the_struggle)__
 {: .notice--primary}
-
-__Need to add more info!__
-{: .notice--danger}

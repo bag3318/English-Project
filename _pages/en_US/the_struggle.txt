@@ -15,7 +15,7 @@ permalink: /the_struggle.html
 > **Need to add info!**
 {: .notice--danger}
 
-# Notes:
+# Notes
 
 > + Dad dies
 > - trying to get air

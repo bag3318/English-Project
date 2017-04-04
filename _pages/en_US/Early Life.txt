@@ -14,8 +14,6 @@ permalink: /early_life.html
 
 {::comment}Initiate Early Life page{:/comment}
 
-# Early Life
-
 ![location](images/location.jpeg){:style="border: 1px #4a7247 solid; border-radius: 8px;clear: left;float: left;height:144px;margin-bottom: -15px;margin-right: 10px;"}
 ![young](images/young_eli.jpg){:style="border: 1px grey solid; border-radius: 8px;float: right;clear: right;height: 188px;"}
 Elie Wiesel was born on 30 September 1928 in Sighet--a town in Poland--now known as part of Transylvania. He was an orthodox Jew and had three sisters; two older, and one younger. Eli&rsquo;s main life was centered around his family. He and his family were very religious, and had many friends who all had the same practices as Eli&rsquo;s family (this was because he lived in a small town).

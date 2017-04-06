@@ -1,0 +1,35 @@
+---
+title: "Site Navigation" #
+lang: en
+permalink: /site-navigation.html
+layout: single-no-ads
+sitemap: false
+---
+
+{% capture notice-1 %}
+**Main Pages**
+
++ [Home Page](./)
++ [Early Life](early_life)
++ [The Ghetto](the_ghetto)
++ [Camp Birkenau](camp_birkenau)
++ [Camp Auschwitz](camp_auschwitz)
++ [The Struggle](the_struggle)
++ [The Light](the_light)
+{% endcapture %}
+<div class="notice--info">{{ notice-1 | markdownify }}</div>
+
+{% capture notice-2 %}
+**Quizzes**
++ [Quiz 1](quiz1)
++ [Quiz 2](quiz2)
++ [Quiz 3](quiz3)
++ [Quiz 4](quiz4)
++ [Quiz 5](quiz5)
++ [Quiz 6](quiz6)
+{% endcapture %}
+<div class="notice--primary">{{ notice-2 | markdownify }}</div>
+
+**Other Pages**
++ [Site Navigation](site-navigation)
+{: .notice--primary}

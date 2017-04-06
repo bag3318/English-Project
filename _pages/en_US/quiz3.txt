@@ -1,0 +1,14 @@
+---
+title: "Quiz on Camp Birkenau" #
+lang: en
+permalink: /quiz3.html
+---
+	
+<div>
+	<div style="overflow: hidden;height: 370px;">
+		<iframe src="https://quizlet.com/201062317/test/embed" height="410" width="100%" style="border:0"></iframe>
+	</div>
+</div>{:style="border: 2px solid dodgerblue; border-radius: 4px; box-shadow:2px 2px 2px 2px #ccc;"}
+
+__Go back to [Camp Birkenau](camp_birkenau) \| Continue to the [Camp Auschwitz](camp_auschwitz)__
+{: .notice--primary}

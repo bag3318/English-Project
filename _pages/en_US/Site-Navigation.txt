@@ -20,12 +20,12 @@ sitemap: false
 
 {% capture notice-2 %}
 **Quizzes**
-- [Quiz 1](quiz1)
-+ [Quiz 2](quiz2)
-- [Quiz 3](quiz3)
-+ [Quiz 4](quiz4)
-- [Quiz 5](quiz5)
-+ [Quiz 6](quiz6)
+- [Quiz 1](quiz1) - Early Life
++ [Quiz 2](quiz2) - The Ghetto
+- [Quiz 3](quiz3) - Camp Birkenau
++ [Quiz 4](quiz4) - Camp Auschwitz
+- [Quiz 5](quiz5) - The Struggle
++ [Quiz 6](quiz6) - The Light
 {% endcapture %}
 <div class="notice--primary">{{ notice-2 | markdownify }}</div>
 

@@ -13,4 +13,7 @@ lang: en
 permalink: /index.html
 ---
 
+# JS Project
+
+## Projects Completed
 

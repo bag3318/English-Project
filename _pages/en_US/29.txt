@@ -1,0 +1,22 @@
+---
+layout: single-no-ads
+title: "Pirkei Avot" #
+lang: en
+permalink: /29.html
+---
+
+# 29
+
+| Mini Project # | Points |
+|----------------|--------| 
+| 29             | 15     |
+
+
+## "The 3 Things"
+
+**1)** Don't be extreme in judgement
+{: .notice--primary}
+**2)** Raise up many students
+{: .notice--primary}
+**3)** Make a fence around the Torah
+{: .notice--primary}

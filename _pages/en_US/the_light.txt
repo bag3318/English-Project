@@ -1,0 +1,19 @@
+---
+layout: splash
+title: "The Light" #
+header:
+  overlay_color: "#5e616c" #
+  overlay_image: images/liberation.jpeg
+  overlay_filter: 0.2
+  cta_label: "End" #
+  cta_url: "./" #
+lang: en
+permalink: /the_light.html
+---
+
+![Liberation2](images/liberation2.jpg){:style="border: 1px #4a7247 solid; border-radius: 8px;clear: left;float: left;height:144px;margin-bottom: -15px;margin-right: 10px;"}
+In early April, 1945, the US First Army forces approached camp Buchenwald. Within months, the camp was liberated and all German officers were evacuated or killed. Elie, being in the camp at that time, was freed from the very chains that made him starve, suffer, and mentally cry. Elie leaves the camp, in hopes that he will never forget his brutal history during those years.
+{:style="width: 1200px;font-size: 24px;"}
+
+__Go back to [The Struggle](the_struggle) \| Take a [Quiz](quiz6) \| Continue to the [Home Page](./)__
+{: .notice--primary}

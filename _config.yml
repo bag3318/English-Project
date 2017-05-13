@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "JS"
+title                    : "Holocaust"
 title_separator          : "-"
-name                     : "Pirkei Avot"
-description              : "Jewish Studies Project"
+name                     : "Eli Wiesel"
+description              : "Eli Wiesel Project"
 url                      : "http://localhost:4000" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 enforce_ssl              : "localhost:4000"
 baseurl                  : # the subpath of your site, e.g. "/blog"

@@ -1,30 +1,19 @@
 ---
 layout: splash
-title: "Eli Wiesel" #
-excerpt: "Lean about Eli Wiesel&rsquo;s<br/>struggle through the Holocaust"
+title: "Pirkei Avot" #
+# excerpt: ""
 header:
   overlay_color: "#5e616c" #
-  overlay_image: images/main_home.jpg
+  overlay_image: images/home-page-banner.jpg
   overlay_filter: 0.25
-  cta_label: "Learn More&excl;" # &excl; = !
-  cta_url: "early_life" #
-  caption: "&ldquo;<i>Neutrality helps the oppressor, never the victim. Silence encourages the tormentor, never the tormented</i>&rdquo; - Elie Wiesel" #
+  cta_label: "Start!"
+  cta_url: "Site-Navigation" #
+  # caption: "" 
 lang: en
 permalink: /index.html
 ---
 
-{::comment}Initiate home page{:/comment}
+# JS Project
 
-Eli Wiesel is a major figure of the Holocaust. He has written the famouse book "*Night*" and won the **Nobel Prize for Literature** in 1986. The stories that were writtten by Eli himself are tremendous and touching to many. 
-{: .notice--info}
+## Projects Completed
 
-## _Quotes_
-
-> &ldquo;*There may be times when we are powerless to prevent injustice, but there must never be a time when we fail to protest.*&rdquo;
-{: .notice--warning}
-
-> &ldquo;__*The opposite of love is not hate, it is indifference.*__&rdquo;
-{: .notice--warning}
-
-> &ldquo;*We must always take sides.*&rdquo;
-{: .notice--warning}

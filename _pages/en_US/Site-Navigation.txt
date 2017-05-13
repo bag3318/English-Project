@@ -9,28 +9,8 @@ sitemap: false
 {% capture notice-1 %}
 **Main Pages**
 + [Home Page](./)
-- [Early Life](early_life)
-+ [The Ghetto](the_ghetto)
-- [Camp Birkenau](camp_birkenau)
-+ [Camp Auschwitz](camp_auschwitz)
-- [The Struggle](the_struggle)
-+ [The Light](the_light)
+- [29](/29)
+* [Site Nav](/Site-Navigation)
 {% endcapture %}
 <div class="notice--info">{{ notice-1 | markdownify }}</div>
 
-{% capture notice-2 %}
-**Quizzes**
-- [Quiz 1](quiz1) - Early Life
-+ [Quiz 2](quiz2) - The Ghetto
-- [Quiz 3](quiz3) - Camp Birkenau
-+ [Quiz 4](quiz4) - Camp Auschwitz
-- [Quiz 5](quiz5) - The Struggle
-+ [Quiz 6](quiz6) - The Light
-{% endcapture %}
-<div class="notice--primary">{{ notice-2 | markdownify }}</div>
-
-{% capture notice-3 %}
-**Other Pages**
-* [Site Navigation](site-navigation)
-{% endcapture %}
-<div class="notice--danger">{{ notice-3 | markdownify }}</div>
